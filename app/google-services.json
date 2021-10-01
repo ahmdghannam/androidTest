@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725404910588",
+    "project_id": "project-name-58cfb",
+    "storage_bucket": "project-name-58cfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725404910588:android:5d00b336e68462e75aa879",
+        "android_client_info": {
+          "package_name": "com.medo.kotlinmessenger_letsbuildthatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725404910588-rckc0l849pr0ln8d04fael24oo6bfgpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5mxJSiUslHOzzFJ5SVjrqO0LGPRMlkoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725404910588-rckc0l849pr0ln8d04fael24oo6bfgpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
